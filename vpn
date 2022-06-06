@@ -1,0 +1,4 @@
+^http[\s\S]*/api/v2/customers/me url script-response-body https://napi.ltd/script/VPN/VPN.js
+^http[\s\S]*/static/old/(strnspeed|turbos)/index.html url response-body <div class="Product-list"> response-body <p style="text-align: center;font-size: 48px"></br></br>永久免费</br></br></br></br></br></br>Crack</br></br>By</br></br>YingZi</p><div class="Product-list" style="display:none">
+^http[\s\S]*/api/apps/[\d]+ url response-body https:\/\/lc.chat\/now\/11164667 response-body https://t.me/ExPensive_58
+极速vpn
